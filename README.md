@@ -1,5 +1,8 @@
 # Please read!
 
+**Source:
+https://github.com/openai/gpt-discord-bot
+
 
 **For any problems running this specific bot:** [Discord Project Post](https://discord.com/channels/974519864045756446/1055336272543092757)
 
