@@ -1,6 +1,6 @@
 # Please read!
 
-- Source:
+**Source:
 https://github.com/openai/gpt-discord-bot
 
 **The Original code is using davinci-text-003 model, I changed the code to request api function to GPT 3.5 and 4 model type.
